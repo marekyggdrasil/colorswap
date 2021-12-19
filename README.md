@@ -16,7 +16,7 @@ and good to go boi!
 
 Pick some picture, here we will use the black mage from the classic Final Fantasy game.
 
-![original black mage](https://github.com/marekyggdrasil/colorswap/blob/main/examples/bmage.png?raw=true =136x208)
+<img src="https://github.com/marekyggdrasil/colorswap/blob/main/examples/bmage.png?raw=true" width="135" heigth="208">
 
 Start by extracting the palette by running
 
@@ -40,4 +40,4 @@ python swap.py examples/bmage.png examples/bmage_palette.png examples/bmage_pale
 
 produces a `examples/bmage_disco.png` file
 
-![disco black mage](https://github.com/marekyggdrasil/colorswap/blob/main/examples/bmage_disco.png?raw=true =136x208)
+<img src="https://github.com/marekyggdrasil/colorswap/blob/main/examples/bmage_disco.png?raw=true" width="135" heigth="208">
